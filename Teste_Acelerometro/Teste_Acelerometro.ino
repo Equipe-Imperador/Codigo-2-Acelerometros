@@ -78,5 +78,5 @@ void loop()
   Serial.print(" | GirY2 = "); Serial.print(GirY2/250);
   Serial.print(" | GirZ2 = "); Serial.println(GirZ2/250);
 
-  delay(500);
+  //delay(500);
 }
